@@ -1,0 +1,3 @@
+a=hari
+b=gopi
+c=dveeram
