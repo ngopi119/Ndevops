@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-f=shanthi
-=======
-c=prithvi
->>>>>>> bba1a63 (S B commit)
+a=hari
+
